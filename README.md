@@ -8,6 +8,11 @@ This project analyzes a synthetic dataset of 500,000 hospital patient records, g
 
 Using Python, the project combines data cleaning, exploratory data analysis, statistical hypothesis testing, and logistic regression to examine readmission patterns and evaluate how well the model distinguishes between readmitted and non-readmitted patients.
 
+## Full Project Report
+
+[View Full Hospital Readmission Analysis Report (PDF)](Hospital_30-Day_Readmission_Risk_Analysis_Report.pdf)
+
+
 ## Project Objectives
 
 - Assess and clean the dataset.
