@@ -10,7 +10,7 @@ Using Python, the project combines data cleaning, exploratory data analysis, sta
 
 ## Full Project Report
 
-[View Full Hospital Readmission Analysis Report (PDF)](Hospital_30-Day_Readmission_Risk_Analysis_Report(1).pdf)
+[View Full Hospital Readmission Analysis Report (PDF)](Hospital_30-Day_Readmission_Risk_Analysis_Report (1).pdf)
 
 
 ## Project Objectives
